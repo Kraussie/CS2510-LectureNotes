@@ -6,6 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="D:/eclipse-workspace/tester.jar"/>
+	<classpathentry kind="lib" path="D:/dev/CS2510-LectureNotes/Libraries/javalib.jar"/>
+	<classpathentry kind="lib" path="D:/dev/CS2510-LectureNotes/Libraries/tester.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
